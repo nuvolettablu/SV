@@ -2855,7 +2855,7 @@
 			//// End of low-effort password code
 			
 			//// Another option simple option is to check for a URL parameter, and if none present, blank the page. You'll need to use URL parameters then to access the page.
-			// if (!window.location.search){document.body.innerHTML = "";} // uncomment this line, if you wish to try it.
+			if (!window.location.search){document.body.innerHTML = "";} // uncomment this line, if you wish to try it.
 			
 			var session = WebRTC.Media; // session is a required global variable if configuring manually. Run before loading main.js but after webrtc.js.
 			session.version = "27.4"; // updated: default 1080p now + tweaked outbound bandwidth logic
