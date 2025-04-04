@@ -588,6 +588,7 @@
   "placeholders": {
     "join-by-room-name-here": "Join by Room Name here",
     "load-a-website-url": "Load a website URL",
+    "enter-chat-message-to-send": "Scrivi qui il messaggio da inviare in chat",
     "enter-chat-message-to-send-here": "Scrivi qui il messaggio da inviare in chat",
     "enter-a-room-name-here": "Enter a Room Name here",
     "optional-room-password-here": "Optional room password here",
