@@ -196,6 +196,7 @@
     "set-a-count-up-timer-that-this-guest-sees-ctrl-cmd-click-to-pause-": "Set a count-up timer that this guest sees. CTRL (cmd) + click to pause.",
     "allow-for-remote-co-directors": "Allow for remote co-directors",
     "record-all-the-guests": "Record all the guests",
+    "send-chat": "Invia",
     "which-audio-bitrate-target-would-you-prefer-": "Which audio bitrate target would you prefer?",
     "constant-audio-bitrate-or-variable-audio-bitrate": "Constant audio bitrate or variable audio bitrate",
     "remove-background-noise-but-may-limit-audio-quality": "Remove background noise, but may limit audio quality",
