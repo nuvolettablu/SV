@@ -594,15 +594,15 @@
     "optional": "optional",
     "give-this-media-source-a-name-optional-": "Give this media source a name (optional)",
     "add-an-optional-password": "Add an optional password",
-    "enter-room-name-here": "Enter Room name here",
-    "enter-your-message-here": "Enter your message here",
+    "enter-room-name-here": "Scrivi il nome della stanza",
+    "enter-your-message-here": "Scrivi qui il messaggio da inviare in chat",
     "press-a-key-here": "press a key here",
     "enter-a-url-for-the-sidebar-page": "Enter a URL for the sidebar page",
     "-whip-url-to-publish-to-goes-here": "➡️ WHIP URL to publish to goes here",
     "-authentication-bearer-token-optional-": "🗝️ Authentication Bearer Token (optional)",
     "enter-the-remote-obs-password-here": "Enter the remote OBS password here",
-    "enter-the-room-name-here": "Enter the room name here",
-    "enter-the-room-password-here": "Enter the room password here"
+    "enter-the-room-name-here": "Inserisci il nome della stanza",
+    "enter-the-room-password-here": "Inserisci la password della stanza"
   },
   "miscellaneous": {
     "new-display-name": "Enter a new Display Name for this stream",
